@@ -14,3 +14,15 @@ Blockchain Interaction: Web3.js
 Testing: Truffle, Ganache
 
 Development Tools: Visual Studio Code, Node.js, NPM
+
+How to start the project 
+
+1. Install all the files properly
+
+2. Go to terminal
+
+3. Type: cd BlogDApp
+
+4. Type: cd client
+
+5. Type: npm start
