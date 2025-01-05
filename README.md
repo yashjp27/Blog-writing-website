@@ -4,8 +4,13 @@ This project is a decentralized blogging platform implemented on the Ethereum bl
 Technology Used to develop and Deploy application :
 
 Blockchain: Ethereum (local network using Ganache)
+
 Smart Contract Language: Solidity
+
 Frontend: React.js
+
 Blockchain Interaction: Web3.js
+
 Testing: Truffle, Ganache
+
 Development Tools: Visual Studio Code, Node.js, NPM
